@@ -1,0 +1,6 @@
+theme: jekyll-theme-slate 
+title:  
+plugins: 
+    - jemoji 
+url: "https://github.com/ErQian715/ErQian715.github.io" 
+markdown: kramdown

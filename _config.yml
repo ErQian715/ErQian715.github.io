@@ -2,5 +2,5 @@ theme: jekyll-theme-slate
 title:  404 not found
 plugins: 
     - jemoji 
-url: "https://github.com/ErQian715/ErQian715.github.io" 
+url: "https://ErQian715.github.io" 
 markdown: kramdown
